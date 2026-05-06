@@ -27,10 +27,6 @@ Risorse trasversali, FAQ, snippet, changelog.
 - 🟢 **Pagine sostanziali**: [web-server-crystal](./miscellanea/web-server-crystal.md) (config IIS), [cdosymplyrecordset](./miscellanea/cdosymplyrecordset.md) (esempio batch update), [news](./miscellanea/news.md) (changelog 2013-2014), [manuale](./miscellanea/manuale.md) (struttura)
 - 🚧 **Placeholder/indice**: ultimi-aggiornamenti, webactivity, files (File Cabinet → Drive), frammenti-codice (16 snippet → Google Sheet), faq (12 domande → Google Sheet), documentazione-tecnica
 
-### 📋 Documenti aggiuntivi nel repo
-
-- [Piano_Implementazione_ResolveTT.md](../Piano_Implementazione_ResolveTT.md) — piano architetturale per il rendering custom delle sezioni `cDoPage` con `ResolveTT`
-
 ## Stato della migrazione
 
 | Sezione | Pagine | Sostanziali | Reference | Placeholder |
